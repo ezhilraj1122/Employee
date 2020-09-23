@@ -1,0 +1,18 @@
+
+
+.jumbotron {
+   
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+body {
+    
+    background: linear-gradient(to bottom, #33ccff 3%, #ff99ff 87%);
+}
+html {
+
+    height:inherit;
+}
+.eps {
+background-color: #8B9DC3;
+}
